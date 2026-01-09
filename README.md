@@ -22,7 +22,8 @@ A dedicated learner with a strong interest in **Cybersecurity, Cyber Defense, an
 
 📫 **Reach Me At**
 - GitHub: https://github.com/vaishnavik-1245  
-- Email: vaishnavikumbhar1245@gmail.com  
+- Email: vaishnavikumbhar1245@gmail.com
+- Linkedin: https://www.linkedin.com/in/vaishnavikumbhar12 
 
 😄 **Pronouns:** She / Her  
 
