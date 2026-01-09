@@ -1,13 +1,30 @@
--👋 Hi, I'm @vaishnavik-1245
+🔐 Cybersecurity Enthusiast | Security Learner | Problem Solver
 
--👀 I'm interested in cybersecurity, artificial intelligence, and machine learning.
+Hi 👋 I’m **Vaishnavi Kumbhar** (@vaishnavik-1245)  
+A dedicated learner with a strong interest in **Cybersecurity, Cyber Defense, and Digital Security**.
 
--🌱 I'm currently learning Python and data structures.
+🛡️ **Cybersecurity Interests**
+- Network & System Security  
+- Threat Analysis & Incident Response  
+- Ethical Hacking & Vulnerability Assessment  
+- Cyber Crime Awareness & Prevention  
 
--💞️ I'm looking to collaborate on projects related to web development, AI-powered chatbots, and cybersecurity research.
+📚 **Currently Learning**
+- Cybersecurity fundamentals  
+- Python for security automation  
+- Data Structures for problem-solving  
 
--📫 How to reach me: You can reach me through my GitHub profile or email me at vaishnavikumbhar1245@gmail.com
+🤝 **Looking to Collaborate On**
+- Cybersecurity tools & scripts  
+- Security research projects  
+- Capture The Flag (CTF) challenges  
+- Secure application development  
 
--😄 Pronouns: She/Her
+📫 **Reach Me At**
+- GitHub: https://github.com/vaishnavik-1245  
+- Email: vaishnavikumbhar1245@gmail.com  
 
--⚡ Fun fact: I enjoy solving puzzles and playing chess in my free time!
+😄 **Pronouns:** She / Her  
+
+⚡ **Fun Fact**
+I enjoy solving security challenges and logical puzzles 🧩.
